@@ -84,6 +84,7 @@ h1 {
 @media (max-width: 420px){
     body{
         padding: 10px 10px;
+        background-color: #000;
     }
 
     h1{
