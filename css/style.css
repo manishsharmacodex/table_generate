@@ -78,3 +78,29 @@ h1 {
     background-color: green;
     color: #fff;
 }
+
+
+/* code for mobile version */
+@media (max-width: 420px){
+    body{
+        padding: 10px 20px;
+    }
+
+    h1{
+        font-size: 18px;
+        text-align: center;
+        padding: 10px 0px;
+        background-color: rgb(9, 105, 105);
+        color: white;
+    }
+    .input-box{
+        display: grid;
+    }
+    #btn{
+        width: 200px;
+        height: 30px;
+        text-align: center;
+        font-size: 12px;
+        background-color: rgb(8, 187, 127);
+    }
+}
