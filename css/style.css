@@ -106,4 +106,7 @@ h1 {
     .printBox{
         border: 0px;
     }
+    #resultContainer{
+        margin: 20px;
+    }
 }
