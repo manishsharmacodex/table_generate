@@ -103,4 +103,7 @@ h1 {
         font-size: 12px;
         background-color: rgb(8, 187, 127);
     }
+    .printBox{
+        border: 0px;
+    }
 }
